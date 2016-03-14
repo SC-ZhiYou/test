@@ -1,7 +1,0 @@
-<<<<<<< .merge_file_yE2DII
-this is first commit  1 2
-=======
-this is first commit
-
-3
->>>>>>> .merge_file_IrjMud
